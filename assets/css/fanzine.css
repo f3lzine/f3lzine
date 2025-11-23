@@ -1,0 +1,6 @@
+/* fanzine A5 vibe */
+body{font-family:Courier New,Courier,monospace;font-size:14px;line-height:1.6;margin:0;padding:0;background:#fefefe;color:#111}
+a{color:#c30;text-decoration:none}
+h1,h2,h3{letter-spacing:-.05em}
+.thumb{height:80px}
+.page{width:148mm;margin:0 auto;padding:10mm}

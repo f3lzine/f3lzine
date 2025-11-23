@@ -1,0 +1,8 @@
+title:        "F3LZine"
+description:  "Fanzine gratuit & automatisé sur les planeurs RC F3L"
+baseurl:      ""
+url:          "https://f3lzine.github.io"
+plugins:
+  - jekyll-feed
+markdown:     kramdown
+permalink:    /:categories/:title/
